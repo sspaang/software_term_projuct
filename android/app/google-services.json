@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282777176583",
+    "project_id": "brew-crew-a3cbb",
+    "storage_bucket": "brew-crew-a3cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282777176583:android:316f929400bf01df70b8a2",
+        "android_client_info": {
+          "package_name": "com.jacha.flutter_firbase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282777176583-cpeac3bjsjrkeq9r0lr7ibior9f9i3tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfFYMIbJayytGYzoziREIgVsYjh6HXgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282777176583-cpeac3bjsjrkeq9r0lr7ibior9f9i3tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
