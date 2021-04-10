@@ -38,7 +38,7 @@ class Home extends StatelessWidget {
                 await _auth.signOut();
               },
               icon: Icon(Icons.person),
-              label: Text('Log out'),
+              label: Text('Logout'),
             ),
             TextButton.icon(
               style: TextButton.styleFrom(primary: Colors.brown[900]),

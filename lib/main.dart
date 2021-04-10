@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
       initialData: null, // required
       value: AuthService().user, // expected
       child: MaterialApp(
+        title: "Brew Crew",
         home: Wrapper(),
       ),
     );
