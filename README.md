@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+## Thanks to The Net Ninja Channel
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
